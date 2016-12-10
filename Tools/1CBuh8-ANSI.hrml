@@ -1,0 +1,323 @@
+<table>
+<tbody>
+<tr>
+<td colspan="5" align="CENTER" valign="TOP"><b>Сравнение функционала разных версий "1С Бухгалтерия", предлагаемых Data Service OU</b></td>
+</tr>
+<tr>
+<td align="CENTER" valign="MIDDLE"></td>
+<td align="CENTER" valign="MIDDLE"><b>7.7</b></td>
+<td align="CENTER" valign="MIDDLE"><b>8 ПРОФ</b></td>
+<td align="CENTER" valign="MIDDLE"><b>8 Базовая</b></td>
+<td align="CENTER" valign="MIDDLE"><b>8 Микро</b></td>
+</tr>
+<tr>
+<td colspan="5" align="LEFT" valign="TOP"><b>Основные возможности</b></td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Учёт торговых операций</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Учёт взаиморасчетов с контрагентами</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Складской учёт</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Учёт операций с денежными средствами</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Учёт основных средств и нематериальных активов</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Учёт заработной платы</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Стандартные бухгалтерские отчеты</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Формирование деклараций (KMD, VD, TSD)</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Формирование баланса и отчета о прибыли</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td colspan="5" align="LEFT" valign="TOP"></td>
+</tr>
+<tr>
+<td colspan="5" align="LEFT" valign="TOP"><b>Дополнительные возможности</b></td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Два языка интерфейса (Эстонский и Русский)</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Выгрузка деклараций (KMD, VD, TSD) для последующей загрузки в EMTA</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Выгрузка платежных поручений в банк</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Учет в нескольких валютах</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Загрузка курсов валют ЕЦБ</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Отправка счетов по e-mail в формате pdf</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Расширенная отчетность по складу</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Расширенная отчетность по взаиморасчетам с контрагентами</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Монитор бухгалтера</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Проверка информации о контрагенте в регистре предприятий</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Проверка информации о контрагенте в EMTA</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Установка обновлений без привлечения программиста</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">возможность использования внешних обработок и отчётов</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">возможность изменения плана счетов</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Многопользовательский режим работы</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Ограничение прав пользователей</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Учёт в одной базе данных только по одной организации</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Встроенный почтовый клиент</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">выгрузка / загрузка документов 1С:eDoc</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">поддержка распределенных информационных баз</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">возможность изменения (конфигурирования) прикладного решения</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">поддержка COM-соединения и Automation-сервера</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td colspan="5" align="LEFT" valign="TOP"></td>
+</tr>
+<tr>
+<td colspan="5" align="LEFT" valign="TOP"><b>Ограничения версии</b></td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Годовой оборот не более 50 000 евро</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Балансовая стоимость имущества не более 175 000 евро</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">не более 2000 проводок в год</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">не более 5 работников для расчета заработной платы</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td colspan="5" align="LEFT" valign="TOP"></td>
+</tr>
+<tr>
+<td colspan="5" align="LEFT" valign="TOP"><b>Цена (без учета НСО), EUR</b></td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Поставка с бумажным комплектом документации (с ключом USB)</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">250 (300)</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Электронная поставка</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">250</td>
+<td align="CENTER" valign="TOP">100</td>
+<td align="CENTER" valign="TOP">0</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">Цена включает</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">-установку программы на компьютер пользователя</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">-2 часа обучения</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">-3 месяца договор сопровождения</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+<tr>
+<td align="LEFT" valign="TOP">-удаленную поддержку через 1С:Коннект</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+<td align="CENTER" valign="TOP">?</td>
+</tr>
+</tbody>
+</table>

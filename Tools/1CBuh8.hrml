@@ -1,0 +1,425 @@
+﻿<tbody>
+<tr>
+<td align="LEFT" valign="BOTTOM" width="34" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM" width="380"><b><i><span style="color: #000000; font-family: Calibri;"> </span></i></b></td>
+<td align="CENTER" valign="BOTTOM" width="65"><b><i><span style="color: #000000; font-family: Calibri;"> </span></i></b></td>
+<td align="CENTER" valign="BOTTOM" width="65"><b><i><span style="color: #000000; font-family: Calibri;"> </span></i></b></td>
+<td align="CENTER" valign="BOTTOM" width="101"><b><i><span style="color: #000000; font-family: Calibri;"> </span></i></b></td>
+<td align="LEFT" valign="BOTTOM" width="65"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000;" colspan="4" align="CENTER" valign="BOTTOM"><b><i><span style="color: #000000; font-family: Calibri;">Сравнение функциональных возможностей версий "1С Бухгалтерии для Эстонии"</span></i></b></td>
+<td align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="38"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="MIDDLE"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="MIDDLE"><b><i><span style="color: #000000; font-family: Calibri;">ПРОФ</span></i></b></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="MIDDLE"><b><i><span style="color: #000000; font-family: Calibri;">Базовая</span></i></b></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="MIDDLE"><b><i><span style="color: #000000; font-family: Calibri;">Микро-предприятие</span></i></b></td>
+<td align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><b><i><span style="color: #000000; font-family: Calibri;">Основные возможности</span></i></b></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Учёт торговых операций</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Учёт взаиморасчетов с контрагентами</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Складской учёт</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Учёт операций с денежными средствами</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Учёт основных средств и нематериальных активов</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Учёт заработной платы</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Стандартные бухгалтерские отчеты</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Формирование деклараций (KMD, VD, TSD)</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Формирование баланса и отчета о прибыли</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><b><i><span style="color: #000000; font-family: Calibri;">Дополнительные возможности</span></i></b></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Два языка интерфейса (Эстонский и Русский)</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Выгрузка деклараций (KMD, VD, TSD) для последующей загрузки в EMTA</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Выгрузка платежных поручений в банк</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Учет в нескольких валютах</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Загрузка курсов валют ЕЦБ</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Отправка счетов по e-mail в формате pdf</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Расширенная отчетность по складу</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Расширенная отчетность по взаиморасчетам с контрагентами</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Монитор бухгалтера</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Проверка информации о контрагенте в регистре предприятий</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Проверка информации о контрагенте в EMTA</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Установка обновлений без привлечения программиста</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">возможность использования внешних обработок и отчётов</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">возможность изменения плана счетов</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Многопользовательский режим работы</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Ограничение прав пользователей</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Учёт в одной базе данных только по одной организации</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Встроенный почтовый клиент</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">выгрузка / загрузка документов 1С:eDoc</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">поддержка распределенных информационных баз</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> возможность изменения (конфигурирования) прикладного решения</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">поддержка COM-соединения и Automation-сервера</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><b><i><span style="color: #000000; font-family: Calibri;">Ограничения версии</span></i></b></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Годовой оборот не более 50 000 евро</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Балансовая стоимость имущества не более 175 000 евро</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">не более 2000 проводок в год</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">не более 5 работников для расчета заработной платы</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><b><i><span style="color: #000000; font-family: Calibri;">Цена (без учета НСО), EUR</span></i></b></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Поставка с бумажным комплектом документации (с ключом USB)</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">250 (300)</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Электронная поставка</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">250</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">100</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">0</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">Цена включает</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> -установку программы на компьютер пользователя</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> -2 часа обучения</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> -3 месяца договор сопровождения</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td style="border: 1px solid #000000;" align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> -удаленную поддержку через 1С:Коннект</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10004;</span></td>
+<td style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000;" align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;">&#10006;</span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+<tr>
+<td align="LEFT" valign="BOTTOM" height="19"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="LEFT" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+<td align="CENTER" valign="BOTTOM"><span style="color: #000000; font-family: Calibri;"> </span></td>
+</tr>
+</tbody>
+</table></center> <div class="attachmentsContainer">
